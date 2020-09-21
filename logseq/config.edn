@@ -9,9 +9,6 @@
            ;; description supports both hiccup and html
            :description ""}
 
-:default-home {:page "Logseq Book Club"
-               :sidebar [{:type :contents}] ;; such as {:type :contents}
-
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
@@ -80,4 +77,9 @@
  ;; input "{{{poem(red,blue)}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}}
+ :macros {}
+
+:default-home {:page "<Logseq Book Club>"
+               :sidebar [{:type :contents}] ;; such as {:type :contents}
+
+}

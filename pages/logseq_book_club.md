@@ -3,6 +3,9 @@ title: Logseq Book Club
 ---
 
 ## Welcometo the Logseq Book Club.
+:PROPERTIES:
+:background_color: rgb(73, 125, 70)
+:END:
 ### Having spent a number of years not opening or going close to a book, a few years ago, by chance, I picked up a book and struggled to put it down. It was a real page turner.
 ### I have now found a passion for reading and found that a good book will transport you through time, allowing you to converse with the greatest minds that ever were. My aim is to read (and process / understand) 12 books per year.
 ### With the above in mind we wanted to set up the Logseq Book Club to push each other to grow our reading minds and share our thoughts on what we have read to learn together.

@@ -22,7 +22,8 @@ title: Logseq Book Club
 :background_color: rgb(83, 62, 125)
 :END:
 ### Make a page for yourself with your preferred name. eg [[ens100]]
-### For each Chapter, take notes, add quotes and list out any questions
+### For each Chapter, take notes, add quotes and list out any questions as follows:
+###
 ###
 ## Rules
 :PROPERTIES:

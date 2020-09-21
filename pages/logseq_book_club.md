@@ -1,5 +1,8 @@
 ---
-permalink: logseq%20book%20club
+published: false
+---
+
+link: logseq%20book%20club
 ---
 
 shed: true

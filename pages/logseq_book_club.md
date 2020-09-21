@@ -1,5 +1,7 @@
 ---
 title: Logseq Book Club
+published: true
+permalink: logseq%20book%20club
 ---
 
 ## Welcometo the Logseq Book Club.

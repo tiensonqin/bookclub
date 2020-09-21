@@ -79,7 +79,7 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
 
-:default-home {:page "<Logseq Book Club>"
+:default-home {:page "https://logseq.com/page/Logseq%20Book%20Club"
                :sidebar [{:type :contents}] ;; such as {:type :contents}
 
 }

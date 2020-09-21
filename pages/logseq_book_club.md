@@ -18,10 +18,16 @@ title: Logseq Book Club
 ### We will read a chapter or two a week
 ### _If popular, we will look to schedule a weekly / bi-weekly Google Meet to get everyone together and discuss our thoughts on what we read._
 ## Instructions
+:PROPERTIES:
+:background_color: rgb(83, 62, 125)
+:END:
 ### Make a page for yourself with your preferred name. eg [[ens100]]
 ### For each Chapter, take notes, add quotes and list out any questions
 ###
 ## Rules
+:PROPERTIES:
+:background_color: rgb(121, 62, 62)
+:END:
 ### Be nice and considerate to your fellow readers
 ### Do not write in any page other than yours
 ### Do not edit anyone else's blocks and pages

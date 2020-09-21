@@ -9,8 +9,8 @@
            ;; description supports both hiccup and html
            :description ""}
 
-:default-home {:page "<Logseq Book Club>"
-               :sidebar [<your custom sidebar items>] ;; such as {:type :contents}
+:default-home {:page "Logseq Book Club"
+               :sidebar [{:type :contents}] ;; such as {:type :contents}
 
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that

@@ -21,11 +21,7 @@ title: Logseq Book Club
 ### Make a page for yourself with your preferred name. eg [[ens100]]
 ### For each Chapter, take notes, add quotes and list out any questions as follows:
 #### {{{embed ((5f689d4b-03f0-4c5e-9938-0a148f4f1593)) }}}
-###
 ## Rules
-:PROPERTIES:
-:background_color: rgb(121, 62, 62)
-:END:
 ### Be nice and considerate to your fellow readers
 ### Do not write in any page other than your own
 ### Do not edit anyone else's blocks and pages

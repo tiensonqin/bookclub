@@ -13,13 +13,11 @@ title: Logseq Book Club
 :PROPERTIES:
 :background_color: rgb(151, 134, 38)
 :END:
-### From a sample, we propose to select a book by user popularity / requests. The weekly (or so) selection will be made via the Discord ^^think about setting up a "Book Club" on Discord^^
+### Each week, from a sample, we propose to select a book by user popularity / requests. The book selection will be made via the Discord.
+#### ^^Think about setting up  a "Book Club" Discord channel^^
 ### We will read a chapter or two a week
 ### _If popular, we will look to schedule a weekly / bi-weekly Google Meet to get everyone together and discuss our thoughts on what we read._
 ## Instructions
-:PROPERTIES:
-:background_color: rgb(38, 76, 155)
-:END:
 ### Make a page for yourself with your preferred name. eg [[ens100]]
 ### For each Chapter, take notes, add quotes and list out any questions
 ###

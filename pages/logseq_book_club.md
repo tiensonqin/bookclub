@@ -7,7 +7,9 @@ title: Logseq Book Club
 ### I have now found a passion for reading and found that a good book will transport you through time, allowing you to converse with the greatest minds that ever were. My aim is to read (and process / understand) 12 books per year.
 ### With the above in mind we wanted to set up the Logseq Book Club to try and share our thoughts on what we have read to and expand our learning together.
 ## Structure
-### From a sample, we propose to select a book by popular
+### From a sample, we propose to select a book by user popularity / requests #+BEGIN_NOTE
+test
+#+END_NOTE . The weekly (or so) selection will be made via the Discord ^^think about setting up a "Book Club" on Discord^^
 ### We will read a chapter or two a week
 ### _If popular, we will look to schedule a weekly / bi-weekly Google Meet to get everyone together and discuss our thoughts on what we read._
 ## Instructions

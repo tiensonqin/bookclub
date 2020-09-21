@@ -1,9 +1,11 @@
 ---
-title: Logseq Book Club
-published: true
-permalink: logseq%20book%20club
+published: false
 ---
 
+title: Logseq Book Club
+published: false
+permalink: logseq%20book%20club
+---
 ## Welcometo the Logseq Book Club.
 :PROPERTIES:
 :background_color: rgb(73, 125, 70)
@@ -26,6 +28,7 @@ permalink: logseq%20book%20club
 ### Make a page for yourself with your preferred name. eg [[ens100]]
 ### For each Chapter, take notes, add quotes and list out any questions as follows:
 #### {{{embed [[ens100]] }}}
+### Review other users' comments through the Linked References section
 ## Rules
 :PROPERTIES:
 :background_color: rgb(121, 62, 62)

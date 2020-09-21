@@ -20,7 +20,7 @@ title: Logseq Book Club
 :END:
 ### Make a page for yourself with your preferred name. eg [[ens100]]
 ### For each Chapter, take notes, add quotes and list out any questions as follows:
-#### {{{embed ((5f689e61-c666-4e1e-b012-d61fc032cb2d)) }}}
+####
 ## Rules
 ### Be nice and considerate to your fellow readers
 ### Do not write in any page other than your own

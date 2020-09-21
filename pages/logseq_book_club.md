@@ -1,5 +1,14 @@
 ---
-published: false
+permalink: logseq%20book%20club
+---
+
+shed: true
+---
+
+shed: false
+---
+
+shed: false
 ---
 
 title: Logseq Book Club

@@ -29,6 +29,6 @@ title: Logseq Book Club
 :background_color: rgb(121, 62, 62)
 :END:
 ### Be nice and considerate to your fellow readers
-### Do not write in any page other than yours
+### Do not write in any page other than your own
 ### Do not edit anyone else's blocks and pages
-### Have fun and learn something new
+### Have fun and learn something new along the way

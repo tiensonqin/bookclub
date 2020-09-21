@@ -1,24 +1,7 @@
 ---
-published: false
----
-
-link: logseq%20book%20club
----
-
-shed: true
----
-
-shed: false
----
-
-shed: false
----
-
 title: Logseq Book Club
-published: false
-permalink: logseq%20book%20club
 ---
-## Welcometo the Logseq Book Club.
+## Welcome to the Logseq Book Club.
 :PROPERTIES:
 :background_color: rgb(73, 125, 70)
 :END:
